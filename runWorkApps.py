@@ -43,6 +43,5 @@ def myMain():
 	terminate(qBittorrent)
 	terminate(brave_browser)
 	run(apps)
-	press_any_key()
 
 myMain()
